@@ -110,7 +110,7 @@ def main():
         print("6. Hapus Siswa di Akhir")
         print("7. Hapus Siswa di Tengah")
         print("8. Keluar")
-        pilihan = input("Pilih menu (1/2/3/4/5/6/7/8/9): ")
+        pilihan = input("Pilih menu (1/2/3/4/5/6/7/8): ")
         if pilihan == "1":
             nama = input("Masukkan nama siswa: ")
             usia = int(input("Masukkan usia siswa: "))
